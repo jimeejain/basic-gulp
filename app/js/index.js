@@ -1,0 +1,1 @@
+document.getElementById('result').innerText = 'hello.. this is from js.';

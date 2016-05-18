@@ -1,0 +1,27 @@
+{
+  "name": "basic-gulp",
+  "version": "1.0.0",
+  "description": "Basic starter pack for learning gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimeejain/basic-gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jimee jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimeejain/basic-gulp/issues"
+  },
+  "homepage": "https://github.com/jimeejain/basic-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}

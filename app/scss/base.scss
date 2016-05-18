@@ -1,0 +1,12 @@
+$txtColor:#FFF;
+$bgColor:#666;
+
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color:$txtColor;
+    background-color: $bgColor;
+}
